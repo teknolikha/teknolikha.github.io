@@ -120,6 +120,12 @@
     "price": 70
   },
   {
+    "product": "Alcohol Spray",
+    "minOrder": 0,
+    "materials": "Wood Engraving, Leather",
+    "price": 150
+  },
+  {
     "product": "Pencils (Set A) - 3pencils w/ sharpener",
     "minOrder": 0,
     "materials": "Wood Engraving",
