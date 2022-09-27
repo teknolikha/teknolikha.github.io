@@ -1,0 +1,202 @@
+[
+  {
+    "product": "T-shirt",
+    "minOrder": 0,
+    "materials": "Sublimation",
+    "price": 150,
+    "resellerPrice": 140,
+    "type": "T-shirt"
+  },
+  {
+    "product": "T-shirt with additional print",
+    "minOrder": 0,
+    "materials": "Sublimation",
+    "price": 180,
+    "resellerPrice": 170,
+    "type": "T-shirt"
+  },
+  {
+    "product": "T-shirt (print only)",
+    "minOrder": 0,
+    "materials": "Sublimation",
+    "price": 80,
+    "resellerPrice": 70,
+    "type": "T-shirt"
+  },
+  {
+    "product": "T-shirt with additional print (print only)",
+    "minOrder": 0,
+    "materials": "Sublimation",
+    "price": 110,
+    "resellerPrice": 100,
+    "type": "T-shirt"
+  },
+  {
+    "product": "T-shirt",
+    "minOrder": 0,
+    "materials": "Transferred Vinyl, Light/Dark Transfer",
+    "price": 250,
+    "resellerPrice": 240,
+    "type": "T-shirt"
+  },
+  {
+    "product": "T-shirt with additional print",
+    "minOrder": 0,
+    "materials": "Transferred Vinyl, Light/Dark Transfer",
+    "price": 300,
+    "resellerPrice": 290,
+    "type": "T-shirt"
+  },
+  {
+    "product": "T-shirt (print only)",
+    "minOrder": 0,
+    "materials": "Transferred Vinyl, Light/Dark Transfer",
+    "price": 130,
+    "resellerPrice": 120,
+    "type": "T-shirt"
+  },
+  {
+    "product": "T-shirt with additional print (print only)",
+    "minOrder": 0,
+    "materials": "Transferred Vinyl, Light/Dark Transfer",
+    "price": 180,
+    "resellerPrice": 170,
+    "type": "T-shirt"
+  },
+  {
+    "product": "Basketball Jersey (Upper Only)",
+    "minOrder": 15,
+    "materials": "Transferred Vinyl, Light/Dark Transfer, Sublimation",
+    "price": 300,
+    "resellerPrice": 290,
+    "type": "T-shirt"
+  },
+  {
+    "product": "Basketball Jersey (Print Only)",
+    "minOrder": 0,
+    "materials": "Transferred Vinyl, Light/Dark Transfer",
+    "price": 150,
+    "resellerPrice": 140,
+    "type": "T-shirt"
+  },
+  {
+    "product": "Totebag",
+    "minOrder": 0,
+    "materials": "Transferred Vinyl, Light/Dark Transfer, Sublimation",
+    "price": 200,
+    "resellerPrice": 180,
+    "type": "Souvenir"
+  },
+  {
+    "product": "Jigsaw Puzzle",
+    "minOrder": 0,
+    "materials": "Sublimation",
+    "price": 150,
+    "resellerPrice": 130,
+    "type": "Souvenir"
+  },
+  {
+    "product": "Mouse Pad",
+    "minOrder": 0,
+    "materials": "Sublimation",
+    "price": 150,
+    "resellerPrice": 130,
+    "type": "Souvenir"
+  },
+  {
+    "product": "Rock Frame",
+    "minOrder": 0,
+    "materials": "Sublimation",
+    "price": 400,
+    "resellerPrice": 380,
+    "type": "Souvenir"
+  },
+  {
+    "product": "Plate Number",
+    "minOrder": 0,
+    "materials": "Acrylic",
+    "price": 150,
+    "resellerPrice": 130,
+    "type": "Signage"
+  },
+  {
+    "product": "Ref Magnet",
+    "minOrder": 10,
+    "materials": "Acrylic",
+    "price": 35,
+    "resellerPrice": 30,
+    "type": "Souvenir"
+  },
+  {
+    "product": "Keychain Acrylic",
+    "minOrder": 10,
+    "materials": "Acrylic",
+    "price": 25,
+    "resellerPrice": 20,
+    "type": "Souvenir"
+  },
+  {
+    "product": "Wooden Keychain",
+    "minOrder": 0,
+    "materials": "Wood Engraving",
+    "price": 90,
+    "resellerPrice": 80,
+    "type": "Souvenir"
+  },
+  {
+    "product": "Keychain with additional print",
+    "minOrder": 0,
+    "materials": "Wood Engraving",
+    "price": 130,
+    "resellerPrice": 120,
+    "type": "Souvenir"
+  },
+  {
+    "product": "Bamboo Pen",
+    "minOrder": 0,
+    "materials": "Wood Engraving",
+    "price": 70,
+    "resellerPrice": 60,
+    "type": "Souvenir"
+  },
+  {
+    "product": "Alcohol Spray",
+    "minOrder": 0,
+    "materials": "Wood Engraving",
+    "price": 150,
+    "resellerPrice": 140,
+    "type": "Souvenir"
+  },
+  {
+    "product": "Pencils (Set A) - 3pencils w/ sharpener",
+    "minOrder": 0,
+    "materials": "Wood Engraving",
+    "price": 130,
+    "resellerPrice": 110,
+    "type": "Souvenir"
+  },
+  {
+    "product": "Pencils (Set B) - 3pencils w/o sharpener",
+    "minOrder": 0,
+    "materials": "Wood Engraving",
+    "price": 110,
+    "resellerPrice": 90,
+    "type": "Souvenir"
+  },
+  {
+    "product": "Pencils (Set C) - 6pencils w/ sharpener",
+    "minOrder": 0,
+    "materials": "Wood Engraving",
+    "price": 200,
+    "resellerPrice": 170,
+    "type": "Souvenir"
+  },
+  {
+    "product": "Pencils (Set D) - 6pencils w/o sharpener",
+    "minOrder": 0,
+    "materials": "Wood Engraving",
+    "price": 180,
+    "resellerPrice": 150,
+    "type": "Souvenir"
+  }
+]
