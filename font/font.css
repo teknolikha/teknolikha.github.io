@@ -1,0 +1,260 @@
+@font-face {
+  font-family: 'Bernadette';
+  src: url(./fonts/bernadette.ttf) format('truetype');
+}
+.Bernadette {
+  font-family: 'Bernadette', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Boulevard';
+  src: url(./fonts/Boulevard.otf) format('truetype');
+}
+.Boulevard {
+  font-family: 'Boulevard', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Amarillo';
+  src: url(./fonts/Amarillo.ttf) format('truetype');
+}
+.Amarillo {
+  font-family: 'Amarillo', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Anantasia';
+  src: url(./fonts/anantasia.ttf) format('truetype');
+}
+.Anantasia {
+  font-family: 'Anantasia', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Madame';
+  src: url(./fonts/Madame.ttf) format('truetype');
+}
+.Madame {
+  font-family: 'Madame', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Jenthill';
+  src: url(./fonts/Jenthill\ DEMO.ttf) format('truetype');
+}
+.Jenthill {
+  font-family: 'Jenthill', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Hello';
+  src: url(./fonts/Hello\ Valentina.ttf) format('truetype');
+}
+.Hello {
+  font-family: 'Hello', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Muthiara';
+  src: url(./fonts/Muthiara\ demo\ version.otf) format('truetype');
+}
+.Muthiara {
+  font-family: 'Muthiara', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Raphtalia';
+  src: url(./fonts/Raphtalia\ Personal\ Use.ttf) format('truetype');
+}
+.Raphtalia {
+  font-family: 'Raphtalia', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Silent';
+  src: url(./fonts/Silent\ Asia\ -\ Personal\ Use.otf) format('truetype');
+}
+.Silent {
+  font-family: 'Silent', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Blueberry';
+  src: url(./fonts/Blueberry\ .ttf) format('truetype');
+}
+.Blueberry {
+  font-family: 'Blueberry', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Neville';
+  src: url(./fonts/Neville.ttf) format('truetype');
+}
+.Neville {
+  font-family: 'Neville', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Shorelines';
+  src: url(./fonts/Shorelines\ Script\ Bold.otf) format('truetype');
+}
+.Shorelines {
+  font-family: 'Shorelines', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Sunnday';
+  src: url(./fonts/Sunnday.ttf) format('truetype');
+}
+.Sunnday {
+  font-family: 'Sunnday', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'josephsophia';
+  src: url(./fonts/josephsophia.ttf) format('truetype');
+}
+.josephsophia {
+  font-family: 'josephsophia', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Welcome';
+  src: url(./fonts/Welcome.ttf) format('truetype');
+}
+.Welcome {
+  font-family: 'Welcome', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Kids Zone';
+  src: url(./fonts/Kids\ Zone.ttf) format('truetype');
+}
+.Kids {
+  font-family: 'Kids Zone', Verdana, Tahoma;
+}
+
+@font-face {
+  font-family: 'Shine';
+  src: url(./fonts/Shine\ Personal\ Use.ttf) format('truetype');
+}
+.Shine {
+  font-family: 'Shine', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'AnalogScript';
+  src: url(./fonts/AnalogScript_PERSONAL_USE_ONLY.otf) format('truetype');
+}
+.AnalogScript {
+  font-family: 'AnalogScript', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Darloune';
+  src: url(./fonts/Darloune.ttf) format('truetype');
+}
+.Darloune {
+  font-family: 'Darloune', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Pigookle';
+  src: url(./fonts/Pigookle.ttf) format('truetype');
+}
+.Pigookle {
+  font-family: 'Pigookle', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Jonathan Smith';
+  src: url(./fonts/Jonathan\ Smith.ttf) format('truetype');
+}
+.Jonathan {
+  font-family: 'Jonathan Smith', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'October';
+  src: url(./fonts/October\ Twilight.ttf) format('truetype');
+}
+.October {
+  font-family: 'October', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Magnolia';
+  src: url(./fonts/magnolia_sky.ttf) format('truetype');
+}
+.Magnolia {
+  font-family: 'Magnolia', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Mefirah';
+  src: url(./fonts/Mefirah.otf) format('truetype');
+}
+.Mefirah {
+  font-family: 'Mefirah', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Butterfly';
+  src: url(./fonts/Butterfly.ttf) format('truetype');
+}
+.Butterfly {
+  font-family: 'Butterfly', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Luckystrikes';
+  src: url(./fonts/Luckystrikes.otf) format('truetype');
+}
+.Luckystrikes {
+  font-family: 'Luckystrikes', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Cloister';
+  src: url(./fonts/CloisterBlack.ttf) format('truetype');
+}
+.Cloister {
+  font-family: 'Cloister', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Minigame';
+  src: url(./fonts/Minigame.ttf) format('truetype');
+}
+.Minigame {
+  font-family: 'Minigame', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Jodie';
+  src: url(./fonts/Jodie\ Garland\ Regular.ttf) format('truetype');
+}
+.Jodie {
+  font-family: 'Jodie', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Amazone';
+  src: url(./fonts/Amazone\ Demo.ttf) format('truetype');
+}
+.Amazone {
+  font-family: 'Amazone', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Marthin';
+  src: url(./fonts/Marthin.otf) format('truetype');
+}
+.Marthin {
+  font-family: 'Marthin', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Elizabella';
+  src: url(./fonts/Elizabella.ttf) format('truetype');
+}
+.Elizabella {
+  font-family: 'Elizabella', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Otamendi';
+  src: url(./fonts/Otamendi.ttf) format('truetype');
+}
+.Otamendi {
+  font-family: 'Otamendi', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Great Day';
+  src: url(./fonts/Great\ Day\ Personal\ Use.ttf) format('truetype');
+}
+.Great {
+  font-family: 'Great Day', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Adelia4';
+  src: url(./fonts/Adelia.otf) format('truetype');
+}
+.Adelia4 {
+  font-family: 'Adelia4', Verdana, Tahoma;
+}
+@font-face {
+  font-family: 'Adelia3';
+  src: url(./fonts/adelia.ttf) format('truetype');
+}
+.Adelia3 {
+  font-family: 'Adelia3', Verdana, Tahoma;
+}
