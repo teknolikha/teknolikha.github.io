@@ -198,5 +198,155 @@
     "price": 180,
     "resellerPrice": 150,
     "type": "Souvenir"
+  },
+  {
+    "product": "Set A - Flat Type",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 155,
+    "resellerPrice": 140,
+    "type": "Wall Decor",
+    "noTiles": 1,
+    "size": "8x11 inches"
+  },
+  {
+    "product": "Set B - Flat Type",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 180,
+    "resellerPrice": 165,
+    "type": "Wall Decor",
+    "noTiles": 2,
+    "size": "8x11 inches"
+  },
+  {
+    "product": "Set C - Flat Type",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 180,
+    "resellerPrice": 165,
+    "type": "Wall Decor",
+    "noTiles": 2,
+    "size": "8x11 inches"
+  },
+  {
+    "product": "Set D - Flat Type",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 155,
+    "resellerPrice": 140,
+    "type": "Wall Decor",
+    "noTiles": 1,
+    "size": "8x8 inches"
+  },
+  {
+    "product": "Set E - Flat Type",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 300,
+    "resellerPrice": 280,
+    "type": "Wall Decor",
+    "noTiles": 1,
+    "size": "20x40 cm"
+  },
+  {
+    "product": "Set F - Flat Type",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 250,
+    "resellerPrice": 230,
+    "type": "Wall Decor",
+    "noTiles": 1,
+    "size": "13x40 cm"
+  },
+  {
+    "product": "Set G - Flat Type",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 1200,
+    "resellerPrice": 1000,
+    "type": "Wall Decor",
+    "noTiles": 5,
+    "size": "65x40 cm"
+  },
+  {
+    "product": "Set H - Flat Type",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 155,
+    "resellerPrice": 140,
+    "type": "Wall Decor",
+    "noTiles": 1,
+    "size": "8x9 inches"
+  },
+  {
+    "product": "Set I - Flat Type",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 1200,
+    "resellerPrice": 1000,
+    "type": "Wall Decor",
+    "noTiles": 5,
+    "size": "65x40 cm"
+  },
+  {
+    "product": "Set J - Flat Type",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 700,
+    "resellerPrice": 650,
+    "type": "Wall Decor",
+    "noTiles": 3,
+    "size": "39X40 cm"
+  },
+  {
+    "product": "Set K - Flat Type",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 700,
+    "resellerPrice": 650,
+    "type": "Wall Decor",
+    "noTiles": 3,
+    "size": "39X40 cm"
+  },
+  {
+    "product": "Set L - Flat Type",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 850,
+    "resellerPrice": 600,
+    "type": "Wall Decor",
+    "noTiles": 3,
+    "size": "60x40 cm"
+  },
+  {
+    "product": "Set M - Flat Type",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 850,
+    "resellerPrice": 600,
+    "type": "Wall Decor",
+    "noTiles": 3,
+    "size": "60x40 cm"
+  },
+  {
+    "product": "Set N - Flat Type",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 1350,
+    "resellerPrice": 1250,
+    "type": "Wall Decor",
+    "noTiles": 9,
+    "size": "30x24 inches"
+  },
+  {
+    "product": "Set O - Flat Type",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 1350,
+    "resellerPrice": 1250,
+    "type": "Wall Decor",
+    "noTiles": 9,
+    "size": "30x30 inches"
   }
 ]
