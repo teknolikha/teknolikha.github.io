@@ -348,5 +348,37 @@
     "type": "Wall Decor",
     "noTiles": 9,
     "size": "30x30 inches"
+  },
+  {
+    "product": "Magic Mug",
+    "minOrder": 0,
+    "materials": "Ceramic",
+    "price": 250,
+    "resellerPrice": 220,
+    "type": "Mug"
+  },
+  {
+    "product": "Desk Name Plates",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 250,
+    "resellerPrice": 220,
+    "type": "Sintra Board"
+  },
+  {
+    "product": "Hanging Name Plates (3mm thick)",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 80,
+    "resellerPrice": 70,
+    "type": "Sintra Board"
+  },
+  {
+    "product": "Hanging Name Plates (5mm thick)",
+    "minOrder": 0,
+    "materials": "Sintra Board",
+    "price": 100,
+    "resellerPrice": 90,
+    "type": "Sintra Board"
   }
 ]
